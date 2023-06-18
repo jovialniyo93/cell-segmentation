@@ -1,4 +1,4 @@
-# RA-SE-ASPP-Net#
+# RA-SE-ASPP-Net
 
 The code in this repository is supplementary to our future publication "Attention-Guided Residual U-Net with SE Connection and ASPP for Watershed-based Cell Segmentation in Microscopy Images" 
 
