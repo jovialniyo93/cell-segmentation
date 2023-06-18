@@ -1,0 +1,36 @@
+name: cell_segmentation
+channels:
+  - pytorch
+  - conda-forge
+  - anaconda
+dependencies:
+  - cudnn
+  - cudatoolkit=10.2
+  - cvxopt
+  - cython
+  - graphviz
+  - ipython
+  - matplotlib
+  - numpy
+  - opencv
+  - pandas
+  - pillow
+  - pydot
+  - pyqt
+  - pytest
+  - python=3.8
+  - python-graphviz
+  - tensorflow
+  - scikit-image
+  - scipy
+  - tensorboardx
+  - imageio
+  - seaborn
+  - tifffile
+  - torchvision
+  - pip 
+  - imageio 
+  - scikit-learn
+ 
+
+ 
