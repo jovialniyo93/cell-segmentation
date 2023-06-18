@@ -18,7 +18,7 @@ In order to get the code, either clone the project, or download a zip file from 
 
 Clone the Cell segmentation repository:
 ```
-https://github.com/jovialniyo93/cell-segmentation
+https://github.com/jovialniyo93/cell-segmentation.git
 ```
 Open the Anaconda Prompt (Windows) or the Terminal (Linux), go to the Cell segmentation repository and create a new virtual environment:
 ```
