@@ -7,7 +7,7 @@
 ![Releasedate](https://img.shields.io/badge/Release%20date-August2023-red)
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
-# [Attention-Guided Residual U-Net with SE Connection and ASPP for Watershed-Based Cell Segmentation in Microscopy Images]([https://ieeexplore.ieee.org/document/10385935](https://doi.org/10.1089/cmb.2023.0446))
+# [Attention-Guided Residual U-Net with SE Connection and ASPP for Watershed-Based Cell Segmentation in Microscopy Images](https://doi.org/10.1089/cmb.2023.0446)
 
 The code in this repository is supplementary to publication **Attention-Guided Residual U-Net with SE Connection and ASPP for Watershed-Based Cell Segmentation in Microscopy Images**
 ## Getting Started
