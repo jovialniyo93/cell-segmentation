@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 * A CUDA capable GPU
 * Minimum / recommended RAM: 16 GiB / 32 GiB
 * Minimum / recommended VRAM: 12 GiB / 24 GiB
-* This project is writen in Python 3 and makes use of tensorflow. 
+* This project is written in Python 3 and makes use of tensorflow. 
 
 ## Installation
 In order to get the code, either clone the project, or download a zip file from GitHub.
