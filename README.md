@@ -75,9 +75,7 @@ Accuracy, Jaccard, Dice, Precision, and Recall
 
 ## Dataset
 
-**The Dataset is available in the link below :**
-
-To download Dataset and all procedures for data preparation you can use this link: [Click Here](https://github.com/jovialniyo93/cell-detection-and-tracking)	
+**To download Dataset and all procedures for data preparation you can use this link:** [Click Here](https://github.com/jovialniyo93/cell-detection-and-tracking)	
 
 
 # Project Collaborators and Contact
