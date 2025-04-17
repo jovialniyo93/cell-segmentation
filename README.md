@@ -19,27 +19,8 @@ These instructions will get you a copy of the project up and running on your loc
 * A CUDA capable GPU
 * Minimum / recommended RAM: 16 GiB / 32 GiB
 * Minimum / recommended VRAM: 12 GiB / 24 GiB
-* This project is writen in Python 3 and makes use of tensorflow. 
-
-## Installation
-In order to get the code, either clone the project, or download a zip file from GitHub.
-
-Clone the Cell segmentation repository:
-```
-https://github.com/jovialniyo93/cell-segmentation.git
-```
-Open the Anaconda Prompt (Windows) or the Terminal (Linux), go to the Cell segmentation repository and create a new virtual environment:
-```
-cd path_to_the_cloned_repository
-```
-```
-conda env create -f requirements.yml
-```
-Activate the virtual environment cell-segmentation_ve:
-```
-conda activate cell-segmentation_ve
-```
-
+* This project is writen in Python 3 and makes use of tensorflow.
+  
 # How to train and test our model
 
 To train the model run the script```python train.py```.
